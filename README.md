@@ -1,5 +1,6 @@
 # ICITL2024
-International Conference of Innovative Technologies and Learning [ICITL] | Tartu, Estonia| August 2024 | replication package
+International Conference of Innovative Technologies and Learning [ICITL]   
+Tartu, Estonia| August 2024 | replication package
 
 ICITL 2024: HRI workshop info incl. event plan, data &amp; analysis.
 * Click on Feb2024_Category_Features_CSV.csv in Github to see raw data of N=19 design features
