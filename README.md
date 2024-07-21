@@ -10,3 +10,4 @@ ICITL 2024: HRI workshop info incl. event plan, data &amp; analysis.
 
 For more information on replicating this workshop, please reach out to farnaz.baksh@ut.ee
 
+Baksh, F., Zorec, M., Kruusamäe, K. (2024). Designing Social Robots for Learning: HRI Participatory Design Workshop. Innovative Technologies and Learning. ICITL 2024. Lecture Notes in Computer Science, vol 14786. Springer, Cham. https://doi.org/10.1007/978-3-031-65884-6_22
